@@ -54,13 +54,13 @@
 ## 求打赏 ##
 如果有什么问题可以加我的微信,喜欢我的话我会持续更新新的东西希望您start、follow、收藏。谢谢支持~
 
-![微信号](https://github.com/cwb2819259/vue-blog-manage/master/png/weixin.png)
+![微信号](https://github.com/cwb2819259/vue-blog-manage/blob/master/png/weixin.png)
 
 求送投食o(*￣︶￣*)o
 
-![微信](https://github.com/cwb2819259/vue-blog-manage/master/png/wchart.jpg)
-![支付宝](https://github.com/cwb2819259/vue-blog-manage/master/png/ali.jpg)
+![微信](https://github.com/cwb2819259/vue-blog-manage/blob/master/png/wchart.jpg)
+![支付宝](https://github.com/cwb2819259/vue-blog-manage/blob/master/png/ali.jpg)
 
 ## 项目截图 ##
-![Image text](https://github.com/cwb2819259/vue-blog-manage/master/png/item1.png)
-![Image text](https://github.com/cwb2819259/vue-blog-manage/master/png/item2.png)
+![Image text](https://github.com/cwb2819259/vue-blog-manage/blob/master/png/item1.png)
+![Image text](https://github.com/cwb2819259/vue-blog-manage/blob/master/png/item2.png)
