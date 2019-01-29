@@ -58,8 +58,8 @@
 
 求送投食o(*￣︶￣*)o
 
-![微信](https://github.com/cwb2819259/vue-blog-manage/blob/master/png/wchart.jpg)
-![支付宝](https://github.com/cwb2819259/vue-blog-manage/blob/master/png/ali.jpg)
+![微信](https://github.com/cwb2819259/vue-blog-manage/blob/master/png/wchart.png)
+![支付宝](https://github.com/cwb2819259/vue-blog-manage/blob/master/png/ali.png)
 
 ## 项目截图 ##
 ![Image text](https://github.com/cwb2819259/vue-blog-manage/blob/master/png/item1.png)
